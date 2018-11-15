@@ -1,2 +1,0 @@
-## Steps of Insertion Sort
-
