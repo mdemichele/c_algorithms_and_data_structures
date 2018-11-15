@@ -11,3 +11,6 @@ To remember it...
 1. Find remainder
 2. Is it zero?
 3. Reduce
+
+Source:
+Don Knuth. "The Art of Programming." Volume 1: Fundamental Algorithms.
