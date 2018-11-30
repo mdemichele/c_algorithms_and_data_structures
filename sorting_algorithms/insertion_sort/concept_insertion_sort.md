@@ -8,3 +8,6 @@ Given a list of unsorted numbers:
 4.   Swap this number to the left until it arrives at the correct sorted position
 5.   Advance the marker to the right one position
 6. Stop
+
+## Resources
+https://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html
