@@ -5,9 +5,9 @@ Merge Sort is a divide-and-conquer algorithm that utilizes recursion. Essentiall
 1. Divide the unsorted list into n sublists (each sublist should contain only one element, at which point it is considered to be sorted).
 2. Repeatedly merge the sublists to produce larger sorted sublists until there is only one sublist remaining. The remaining list will be sorted. 
 
-
 ## Time Complexity
 The running time of Merge sort is O(n log n). I will explain this in greater detail soon.
+
 ## Resources
 ["Merge Sort" - Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 
