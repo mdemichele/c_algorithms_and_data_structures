@@ -1,5 +1,5 @@
 ## Concept of Insertion Sort 
-
+Insertion Sort is an in-place algorithm, meaning no auxiliary data structures are used. 
 
 ## Steps of Insertion Sort
 

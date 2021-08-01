@@ -3,7 +3,7 @@ Assuming the input is an unordered array of integers:
 1. Start with the first element in the array as the key.
 2. Move from the right of the key to the end of the array, searching for the smallest element.
 3. Swap smallest element with the key element. 
-4. Move key one to the right and repeat steps 2-4
+4. Move key one to the right and repeat steps 2-3.
 5. Once the key reaches the end of the array, you are done.
 
 ## Concept of Selection Sort
