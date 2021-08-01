@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+// HELPER FUNCTION THAT MERGES THE TWO PARTITIONS
 void merge(int arr[], int start, int mid, int end) {
   // temporary array
   int temp[end - start + 1];
@@ -40,6 +41,7 @@ void merge(int arr[], int start, int mid, int end) {
   }
 }
 
+// MAIN MERGE SORT FUNCTION: CALLS MERGE RECURSIVELY
 void merge_sort(int arr[], int start, int end) {
   if (start < end) {
     int mid = (start + end) / 2;
