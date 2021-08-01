@@ -8,6 +8,17 @@ Merge Sort is a divide-and-conquer algorithm that utilizes recursion. Essentiall
 ## Time Complexity
 The running time of Merge sort is O(n log n). I will explain this in greater detail soon.
 
+## Instructions to run on local machine 
+To run the program, simply clone the git repository onto your local machine. Navigate to the merge_sort directory. Compile the code with:
+
+`gcc merge_sort.c`
+
+Then, to run the compiled file, use the command:
+
+`./a.out`
+
+You will see one test demonstrating the algorithm's usage.
+
 ## Resources
 ["Merge Sort" - Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 
