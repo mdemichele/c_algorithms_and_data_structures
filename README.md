@@ -6,5 +6,13 @@ Each algorithm or data structure will have a README file attached, explaining ho
 # Contents 
 
 ## Sorting Algorithms 
+- Avl Sort 
+- Bubble Sort 
+- Counting Sort 
+- Heap Sort 
+- Insertion Sort
 - Merge Sort 
 - Quick Sort  
+- Radix Sort 
+- Selection Sort  
+
