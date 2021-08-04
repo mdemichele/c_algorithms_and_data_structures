@@ -6,7 +6,7 @@ Merge Sort is a divide-and-conquer algorithm that utilizes recursion. Essentiall
 2. Repeatedly merge the sublists to produce larger sorted sublists until there is only one sublist remaining. The remaining list will be sorted. 
 
 ## Time Complexity
-The running time of Merge sort is O(n log n). 
+The average and worst case runtime of Merge sort is O(n log n). 
 
 ## Space Complexity
 The space complexity of Merge sort is O(n) due to the temp array that we use to merge the partitioned parts of the array.
