@@ -1,5 +1,5 @@
 ## Quick Sort Concepts
-Quick Sort is a divide-and-conquer algorithm. 
+Quick Sort is a divide-and-conquer algorithm. The algorithm works by recursively breaking apart an array into smaller and smaller partitions, centered around a "pivot point." 
 
 # Steps 
 1. Choose an element to be the pivot 
